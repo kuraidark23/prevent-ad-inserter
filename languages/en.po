@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+
+msgid "Ad Inserter Installation Prevention"
+msgstr "Ad Inserter Installation Prevention"
+
+msgid "Ad Inserter has been deactivated because it is not allowed on this site."
+msgstr "Ad Inserter has been deactivated because it is not allowed on this site."
+
+msgid "No installation of Ad Inserter is allowed."
+msgstr "No installation of Ad Inserter is allowed."
+ 
+msgid "Plugin blocked"
+msgstr "Plugin blocked"
+ 
+msgid "No activation of Ad Inserter is allowed."
+msgstr "No activation of Ad Inserter is allowed."
+ 
+msgid "No activation of Ad Inserter is allowed on this site."
+msgstr "No activation of Ad Inserter is allowed on this site."
